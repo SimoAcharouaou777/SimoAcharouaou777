@@ -8,7 +8,7 @@ I'm a passionate coding enthusiast with ambitious goals to become a proficient f
 
 📧 You can reach me at: acharouaoumohamed@gmail.com
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoAcharouaou777)](https://github.com/anuraghazra/github-readme-stats)
 
 Let's connect and build amazing things together! 🚀
 
