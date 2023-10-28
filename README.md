@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Mohamed Acharouaou 👋
 
-<!--
-**SimoAcharouaou777/SimoAcharouaou777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate coding enthusiast with ambitious goals to become a proficient full-stack developer. Currently, I'm a student at 'YOU CODE,' a prestigious school in Morocco, where I'm learning HTML, CSS, and JavaScript. My future aspirations include working on exciting 3D projects for top-tier companies and crafting outstanding websites. 
 
-Here are some ideas to get you started:
+🌱 At this stage, I'm an enthusiastic learner with no prior professional experience, but I'm determined to grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎙️ In addition to my coding journey, I'm also a voice-over enthusiast who loves sharing my voice with the community.
+
+📧 You can reach me at: acharouaoumohamed@gmail.com
+
+![GitHub Badge](Insert Your GitHub Badge URL)
+![LinkedIn Badge](Insert Your LinkedIn Badge URL)
+![Twitter Badge](Insert Your Twitter Badge URL)
+
+Let's connect and build amazing things together! 🚀
+
