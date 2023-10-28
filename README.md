@@ -7,6 +7,13 @@ I'm a passionate coding enthusiast with ambitious goals to become a proficient f
 🎙️ In addition to my coding journey, I'm also a voice-over enthusiast who loves sharing my voice with the community.
 
 📧 You can reach me at: acharouaoumohamed@gmail.com
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SimoAcharouaou777/count.svg" />
+</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoAcharouaou777)](https://github.com/anuraghazra/github-readme-stats)
 
