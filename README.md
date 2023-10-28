@@ -8,9 +8,7 @@ I'm a passionate coding enthusiast with ambitious goals to become a proficient f
 
 📧 You can reach me at: acharouaoumohamed@gmail.com
 
-![GitHub Badge](Insert Your GitHub Badge URL)
-![LinkedIn Badge](Insert Your LinkedIn Badge URL)
-![Twitter Badge](Insert Your Twitter Badge URL)
+
 
 Let's connect and build amazing things together! 🚀
 
