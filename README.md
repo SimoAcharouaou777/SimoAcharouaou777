@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  Visitor count<br>
+  HSB M3AYA A BOJMI3 CHHAL DKHL LHNA<br>
   <img src="https://profile-counter.glitch.me/SimoAcharouaou777/count.svg" />
 </p>
 
