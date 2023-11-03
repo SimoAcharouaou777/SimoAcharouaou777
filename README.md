@@ -1,10 +1,10 @@
 ### Hi there, 
 ### I'm Mohamed Acharouaou 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://pin.it/27cphPP" alt="Hello world">
 
 <p align="center"> 
-  You are the visitor number : <br>
+  drink some tea: <br>
   <img src="https://profile-counter.glitch.me/SimoAcharouaou777/count.svg" />
 </p>
 
