@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm MOHAMED ACHAROUAOU</h1>
-<h3 align="center">A passionate frontend & BACK END developer from MOROCCO</h3>
+<h3 align="center">A passionate FRONTEND & BACK END developer from MOROCCO</h3>
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/SimoAcharouaou777/SimoAcharouaou777/assets/144788061/b2dbaf10-7d7d-48de-b406-e9b331d970c4)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simoacharouaou777&label=Profile%20views&color=0e75b6&style=flat" alt="simoacharouaou777" /> </p>
 
