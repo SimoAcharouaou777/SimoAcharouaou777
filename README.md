@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMED ACHAROUAOU</h1>  
-<h3 align="center">A passionate FRONTEND & BACK END developer from MOROCCO</h3>  
+<h3 align="center">A passionate FRONTEND & BACK END developer from MOROCCO</h3>   
  
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475ttx9b2j00ehzovokqjeyo1dmws3w2fb5wbqyzi4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
