@@ -25,3 +25,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simoacharouaou777&show_icons=true&locale=en" alt="simoacharouaou777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simoacharouaou777&" alt="simoacharouaou777" /></p>
+## 📅 Metrics
+
+###
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimoAcharouaou777&repo=IP-Finder&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
+
+###
