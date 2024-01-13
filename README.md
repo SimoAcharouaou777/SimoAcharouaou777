@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FRONTEND & BACK END developer from MOROCCO</h3>   
      
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475ttx9b2j00ehzovokqjeyo1dmws3w2fb5wbqyzi4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simoacharouaou777&label=Profile%20views&color=0e75b6&style=flat" alt="simoacharouaou777" /> </p>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simoacharouaou777" alt="simoacharouaou777" /></a> </p>
