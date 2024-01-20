@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mohamed+Acharouaou;I'm+a+Full+Stack+Developer+From+Morocco:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mohamed+Acharouaou;I'm+a+Full+Stack+Developer:%29)](https://git.io/typing-svg)
  
         
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475ttx9b2j00ehzovokqjeyo1dmws3w2fb5wbqyzi4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
