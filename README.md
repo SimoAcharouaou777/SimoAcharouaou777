@@ -54,5 +54,5 @@
 </div> 
 
 <a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/cat.gif">
-  <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/cat.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/cat.gif" alt="Fallout GIF" style="width:100%; height:auto"/>
 </a>
