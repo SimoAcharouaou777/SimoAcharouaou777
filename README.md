@@ -53,6 +53,6 @@
   </div>
 </div> 
 
-<a href="https://github.com/MohamedAcharouaou/Wall-E-Desk/blob/main/green.gif">
-  <img src="https://github.com/MohamedAcharouaou/Wall-E-Desk/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/MohamedAcharouaou/Wall-E-Desk/blob/main/cat.gif">
+  <img src="https://github.com/MohamedAcharouaou/Wall-E-Desk/blob/main/cat.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
