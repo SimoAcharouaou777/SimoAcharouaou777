@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif"> 
-   <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif" alt="Programming GIF" style="width:auto; height:auto"/> 
+   <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif" alt="Programming GIF" style="width:100%; height:auto"/> 
 </a>
 
 <h1 align="center">Hello! I'm Mohamed Acharouaou 👋</h1>
