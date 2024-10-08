@@ -53,6 +53,6 @@
   </div>
 </div> 
 
-<a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/cat.gif">
-  <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/cat.gif" alt="Fallout GIF" style="width:100%; height:auto"/>
+<a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/inTherain.gif">
+  <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/inTherain.gif" alt="Fallout GIF" style="width:100%; height:auto"/>
 </a>
