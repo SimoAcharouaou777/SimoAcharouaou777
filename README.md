@@ -54,7 +54,7 @@
 </div> 
 
 <div style="text-align: center;">
-  <a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/woods.gif"> 
-    <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/woods.gif" alt="Programming GIF" style="width:100%; height:auto;"/> 
+  <a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/darker.gif"> 
+    <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/darker.gif" alt="Programming GIF" style="width:100%; height:auto;"/> 
   </a>
 </div>
