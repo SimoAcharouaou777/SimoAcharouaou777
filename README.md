@@ -1,7 +1,10 @@
 <!-- MasterHead -->
-<a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif"> 
-   <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif" alt="Programming GIF" style="width:100%; height:auto"/> 
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif"> 
+    <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif" alt="Programming GIF" style="width:100%; height:auto;"/> 
+  </a>
+</div>
+
 
 <h1 align="center">Hello! I'm Mohamed Acharouaou 👋</h1>
 <h4 align="left">🌟 I'm currently focusing on mastering Java and Spring Boot, with a solid background in PHP/Laravel. Pursuing my second year at Youcode, I’m building the necessary skills to land a high-paying job as a full stack developer. Passionate about problem-solving, clean code, and always eager to explore new technologies.</h4> <h2>💫 About Me</h2> 
