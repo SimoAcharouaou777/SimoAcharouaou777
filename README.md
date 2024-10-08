@@ -55,6 +55,6 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/onepiece.gif"> 
-    <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/onepiece.gif" alt="Programming GIF" style="width:100%; height:auto;"/> 
+    <img src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/onepiece.gif" alt="Programming GIF" style="width:100%; height:100%;"/> 
   </a>
 </div>
