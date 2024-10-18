@@ -5,32 +5,43 @@
   </a>
 </div>
 
-
 <h1 align="center">Hello! I'm Mohamed Acharouaou 👋</h1>
-<h4 align="left">🌟 I'm currently focusing on mastering Java and Spring Boot, with a solid background in PHP/Laravel. Pursuing my second year at Youcode, I’m building the necessary skills to land a high-paying job as a full stack developer. Passionate about problem-solving, clean code, and always eager to explore new technologies.</h4>
-<h2>💫 About Me</h2> 
+<h4 align="center">🌟 Currently mastering Java and Spring Boot, with a strong background in PHP/Laravel. Pursuing my second year at Youcode, I’m building the skills needed to land a high-paying job as a full stack developer. Passionate about problem-solving, clean code, and always eager to explore new technologies.</h4>
+
+<h2 align="center">💫 About Me</h2> 
 <img align="right" alt="coding-gif" width="400" src="https://github.com/SimoAcharouaou777/SimoAcharouaou777/blob/main/programming.gif">
-<p align="left"> <a href="https://visitcount.itsvg.in">
-  <img width="150px" src="https://visitcount.itsvg.in/api?id=MohamedAcharouaou&icon=2&color=6" alt="Visitor Count" />
-</a> </p> 
+<p align="left"> 
+  <a href="https://visitcount.itsvg.in">
+    <img width="150px" src="https://visitcount.itsvg.in/api?id=MohamedAcharouaou&icon=2&color=6" alt="Visitor Count" />
+  </a> 
+</p> 
 <h4>
-  🌱 I am currently learning Java EE and exploring the Spring Boot framework to become a professional developer. 🔭 I worked on various Java projects and have experience in web development using PHP and Laravel. 💬 Ask me about Java, Spring Boot, Git, or any programming-related questions. ⚡ My interests include backend development, web applications, and problem-solving using efficient algorithms. ✨ My goal is to become a top-tier Java developer within the next few months and work remotely for companies around the world.
+  🌱 Currently learning Java EE and exploring Spring Boot to become a professional developer. 
+  🔭 Experience in various Java projects and web development using PHP and Laravel. 
+  💬 Ask me about Java, Spring Boot, Git, or any programming-related questions. 
+  ⚡ Interests include backend development, web applications, and problem-solving using efficient algorithms. 
+  ✨ Goal: Become a top-tier Java developer and work remotely for global companies.
 </h4>
-<div align="left"> 
-  <h3>
-    🌟 Reach Me on:
-  </h3>
+
+<div align="center"> 
+  <h3>🏆 Achievements:</h3>
+  <img src="https://img.shields.io/badge/Trophies-5-brightgreen" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Languages-3-blue" alt="Languages" />
+  <img src="https://img.shields.io/badge/Strick_Days-100-orange" alt="Days Worked" />
+</div>
+
+<div align="center"> 
+  <h3>🌟 Reach Me On:</h3>
   <a href="mailto:acharouaoumohamed@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-</a>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/mohamedacharouaou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 <br/> 
-<h2 align="center">
-  📚 Languages & Tools I’m Skilled In
-</h2>
+
+<h2 align="center">📚 Languages & Tools I'm Skilled In</h2>
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,docker,git,github" />
   <br> 
@@ -38,10 +49,9 @@
   <br> 
 </div>
 <br/> 
+
 <div align="center"> 
-  <h2>
-    💻 Tech Stack:
-  </h2>
+  <h2>💻 Tech Stack:</h2>
   <br/>
   <div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
