@@ -23,12 +23,7 @@
   ✨ Goal: Become a top-tier Java developer and work remotely for global companies.
 </h4>
 
-<div align="center"> 
-  <h3>🏆 Achievements:</h3>
-  <img src="https://img.shields.io/badge/Trophies-5-brightgreen" alt="Trophies" />
-  <img src="https://img.shields.io/badge/Languages-3-blue" alt="Languages" />
-  <img src="https://img.shields.io/badge/Strick_Days-100-orange" alt="Days Worked" />
-</div>
+
 
 <div align="center"> 
   <h3>🌟 Reach Me On:</h3>
