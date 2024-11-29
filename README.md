@@ -5,4 +5,4 @@
 </p>
 
 
-Feel free to explore my repositories and don't forget to leave a star if you like my work! :star2:
+Feel free to explore my repositories and don't forget to leave a star if you like my work!  :star2:
